@@ -7,5 +7,5 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 
 public class driverTest{
   public static main void{
-
-  telemetry.adddata(
+  if(gamepad1.left_stick
+  telemetry.adddata("
